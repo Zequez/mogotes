@@ -13,7 +13,7 @@
   {Guarda}
   title="Web Colaborativa Barrio Punta Mogotes - Mar del Plata"
   nav={[
-    ['index', 'fomento', 'sponsors'],
+    ['index', 'fomento', 'contribuir', 'sponsors'],
     ['mapa', 'playa-mar', 'verde', 'espacios', 'talleres'],
     ['servicios', 'vincular', 'bienestar', 'cuidado-personal', 'entrenar'],
     ['abastecimiento', 'hospedaje', 'gastronomia'],
